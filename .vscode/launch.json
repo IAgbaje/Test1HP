@@ -6,9 +6,12 @@
     "configurations": [
         {
             "type": "pwa-chrome",
+            
             "request": "launch",
             "name": "Open <!DOCTYPE html>.html",
             
+
+
             "file": "/Users/mac/Desktop/Test1HP/<!DOCTYPE html>.html"
         }
     ]
